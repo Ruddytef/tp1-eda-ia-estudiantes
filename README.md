@@ -81,7 +81,7 @@ Las cinco hipótesis se cumplieron, aunque no todas con la misma fuerza.
 
 ```
 ├── README.md
-├── ai_student_impact_dataset_1.csv
+├── ai_student_impact_dataset.csv
 └── ai_student_impact.ipynb
 ```
 

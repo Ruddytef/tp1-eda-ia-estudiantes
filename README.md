@@ -82,7 +82,7 @@ Las cinco hipótesis se cumplieron, aunque no todas con la misma fuerza.
 ```
 ├── README.md
 ├── ai_student_impact_dataset_1.csv
-└── tp1_eda_ia_estudiantes.ipynb
+└── ai_student_impact.ipynb
 ```
 
 Para ejecutar el notebook se necesitan las librerías `pandas`, `numpy`, `matplotlib`, `seaborn` y `scipy`.
